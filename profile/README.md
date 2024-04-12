@@ -1,19 +1,18 @@
 <h2 align="center">
   <br>
-  <img src="qoherent-dark.png" alt="Qoherent" width="500">
+  <img src="https://github.com/qoherent/.github/blob/main/profile/qoherent-dark.png" alt="Qoherent" width="500">
 </h2>
 
 <h3 align="center">Driving the creation of intelligent radio 📡🚀</h3>
 
-Qoherent is a Canadian technology startup specializing in the development of cognitive radio IP products and the 
-creation of software tools for cognitive radio development. More information about our company, 
+Qoherent is a Canadian technology startup specializing in the creation of cognitive radio IP products and the 
+development of software tools for cognitive radio development. More information about our company, 
 products, services can be found on our website at [www.qoherent.ai](https://www.qoherent.ai/).
 
 
 ## 🛠️ Radio Intelligence Apps
 
-The [RIA Project](https://www.qoherent.ai/radiointelligenceapps-project/) helps you to unlock solutions in an increasingly congested, contested, and 
-complex wireless spectrum. 
+[RIA](https://www.qoherent.ai/radiointelligenceapps-project/) unlocks solutions in an increasingly congested, contested, and complex wireless spectrum. 
 
 Check out [RIA Core](https://github.com/qoherent/ria), the foundational, open-source core of [RIA Hub](https://riahub.ai/), an extensive AI development 
 platform tailored for [software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR). RIA Core 
