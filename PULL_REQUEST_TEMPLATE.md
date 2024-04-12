@@ -21,13 +21,13 @@ in which files should be reviewed or highlighting anything they should look out 
 [Please let us know if any specific radio hardware or drivers are required to test and review these changes.]
 
 
-<!-- **Checklist:**
-To expedite the review of your changes, please ensure: 
+<!-- To expedite the review of your changes, please ensure: 
 - You have performed a self-review of your code and your changes generate no new warnings.
+- These changes have been auto formatted using Black and isort, and linted with Flake8.
 - You have included unit tests for your code contributions, and all tests are passing.
 - The docstrings are complete, include doctests demonstrating usage, and are properly formatted. 
 Please ensure the project documentation is complete and look okay.
 - No unnecessary changes have been made to the Poetry lock file, but `pyproject.toml` and the Poetry lock file 
 have been updated to reflect any dependency changes. 
 
-Thank you for taking the time to prepare these contributions, Your efforts are greatly appreciated! -->
+Thank you for taking the time to prepare this contribution, your efforts are greatly appreciated! -->
