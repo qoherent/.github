@@ -8,7 +8,7 @@ and communications civil, and refrain from self-promotion or engaging in any dis
 behavior.
 
 **🌍 Be Inclusive:** We welcome diverse perspectives and constructive feedback, but not personal attacks, 
-discrimination, harassment, or insulting/derogatory language. Please refer to our [Diversity Statement](./DIVERSITY_STATEMENT.md) for 
+discrimination, harassment, or insulting/derogatory language. Please refer to our [Diversity Statement](DIVERSITY_STATEMENT.md) for 
 additional information regarding our commitment to inclusivity.
 
 **🤝 Be Collaborative:** Teamwork makes the dream work! We believe in supporting one another and in celebrating 
