@@ -42,4 +42,18 @@ If you have a larger project in mind, please [contact us](https://www.qoherent.a
 
 ## 🍿 Fun facts about us
 
-Coming soon: Fun facts about our company and team!
+- [Ash](https://github.com/abeigi) can bench press 370 pounds but not 375 pounds. 🦾
+
+- [Adrian](https://github.com/adrian-qoherent) can decipher Morse Code by ear and has established two-way radio communication with individuals in over 
+100 countries across all continents, except Antarctica. 📻🌍
+
+- [Lorne](https://github.com/lswersk) can bend his thumb backward by 90 degrees. 📐
+
+- [Gillian](https://github.com/fordg1)'s second choice of career path would definitely have been musical theatre. 🎭
+
+- [Alec](https://github.com/Alec1234567) spends most of his free time playing guitar and producing songs, often spending up to 12 hours a day looking 
+at frequency plots. 🎸📊
+
+- [Michael](https://github.com/mrl280)'s passion for recreational 3D printing has led to many unique creations, including custom piece sets for 
+his favourite board game, Settlers of Catan, model ships from his favourite show, Stargate, and a collection of 60+ 
+[Ender test dogs](https://www.youtube.com/watch?v=SvMynpk_WqQ) scattered around his flat. 🛠️
