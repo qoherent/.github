@@ -8,6 +8,9 @@ determine any specific requirements pertaining to the release notes.
 Version identifiers should adhere to the following scheme: [N!]N(.N)*[{a|b|rc}N][.postN][.devN]. For simplicity, most 
 projects just use MAJOR.MINOR.PATCH.
 
+The release tag and title should consist solely of the version identifier prefixed with the letter 'v'. 
+For example, 'v2.3.4'.
+
 Prior to tagging a new release, please ensure: 
 - You have notified the team and obtained approval from the project maintainers.
 - All units tests are passing. Depending on the project, manual testing may be required. Please confirm 
@@ -19,24 +22,11 @@ the testing requirements with the project maintainers.
 Thank you for taking the time to prepare these release notes, your efforts are greatly appreciated! -->
 
 
-[project version] - Release Notes
+## [Project Name and Version No.] - Release Notes
 <!-- Example: RIA Core v0.2.3 - Release Notes -->
 
 
 [Introduction, summary, or overview of the release, typically less than 500 characters.]
-
-
-<!-- Depending on the size and scope of the release, you may or may not wish to include a Table of Contents.  -->
-## Table of Contents
-
-- [New Features](#🌟-New-Features)
-- [Enhancements](🚀-Enhancements)
-- [Performance Improvements](#🚀-Performance-Improvements)
-- [Bug Fixes](#🐛-Bug-Fixes)
-- [Deprecations](#Deprecations)
-- [Known Issues](#🚧-Known-Issues)
-- [Future Plans](#💡-Future-Plans)
-- [Additional Information](#ℹ️-Additional-Information)
 
 
 ## 🌟 New Features
@@ -57,13 +47,19 @@ they can expect from this release.]
 
 ## 🐛 Bug Fixes
 
-[Outline any bugs or issues that have been resolved in bullet point format.]
+[Outline any bugs or other issues that have been resolved in bullet point format.]
 
 
 ## ⚠️ Deprecations
 
-[Deprecations are functionalities that still exists in software but whose use is not recommended, often because they 
+[Deprecations are functionalities that still exist in software but whose use is not recommended, often because they 
 will be removed in future releases. Note any deprecations in bullet point format.]
+
+
+## 🗑️ Removals
+
+[Note any removals or interface changes in bullet point format. If applicable, kindly indicate what module, function, 
+or script users should use instead.]
 
 
 ## 🚧 Known Issues
@@ -73,16 +69,17 @@ will be removed in future releases. Note any deprecations in bullet point format
 
 ## 💡 Future Plans
 
-[Summarize the main improvements and new functionalities planned for the future releases in bullet point format. 
-This section is used to tease customers and prospects about our roadmap, but it's crucial to avoid disclosing 
+[Summarize the main improvements and new functionalities planned for future releases in bullet point format. 
+This section is used to tease customers and stakeholder about our roadmap, but it's crucial to avoid disclosing 
 strategic details or misleading information.]
 
 
 ## ℹ️ Additional Information
 
-[f there is any additional information related to this release that you would like to share, please include it here.]
+[Please consider including SHA256 checksums. If there is any additional information related to this release that you 
+would like to share, please include it here.]
 
-If you have any questions or concerns regarding this release or our future plans, wish to provide feedback, or would
+If you have any questions or concerns regarding this release, wish to provide feedback, or would
 like to suggest an improvement to the project, please feel free to contact the project maintainers.
 
 <!-- Thank you for your hard work and dedication to the project, and congratulations on this release! 🎉
@@ -91,4 +88,4 @@ Next steps:
 - Coordinate with the marketing department to prepare announcements for the community, customers, and relevant 
 stakeholders and to review and update any promotional materials.
 - Notify the team to read and review these release notes.
-- Confirm with the project maintains to ensure all requirements are met and no further action is required. -->
+- Confirm with the project maintainers to ensure all release requirements are met and no further action is required. -->
