@@ -40,7 +40,7 @@ they can expect from this release.]
 [Summarize any enhancements or improvements made to existing features or functionalities in bullet point format.]
 
 
-## ️ 🛠️ Performance Improvements
+## 🛠️ Performance Improvements
 
 [Highlight any performance improvements in bullet point format.]
 
