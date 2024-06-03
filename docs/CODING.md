@@ -11,11 +11,11 @@ refine our approach. You're welcome to present your ideas and rationale on our [
 
 Limit lines to 119 characters. This includes code, comments, docstrings.
 
-All contributions must include appropriate unit tests and doctests.
+All contributions must include appropriate tests.
 
 All contributions must be well documented, with a copious amount of complete docstrings.
 
-All continuations must adhere to the project's linting and formatting specifications.
+All contributions must adhere to the project's linting and formatting specifications.
 
 
 ## 🐍 Python-specific guidelines
@@ -38,13 +38,13 @@ We use [Flake8](https://flake8.pycqa.org/en/latest/) for code linting and style.
 Flake8 configuration settings defined in [tox.ini](../tox.ini).
 
 We use [Sphinx](https://www.sphinx-doc.org/en/master/) to auto-generate the documentation for our Python projects. All docstrings must adhere to the 
-[Sphinx docstring format](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html#the-sphinx-docstring-format).
+[Sphinx docstring format](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html#the-sphinx-docstring-format) and should include doctests 
+showcasing clear and accessible examples of how to use the code.
 
 Types mentioning in the docstring should be expressed in plain English rather than using Python's type hint syntax 
 For example, write "int or float, optional" instead of "Optional[int | float]".
 
-We prefer [Pytest](https://docs.pytest.org/en/8.0.x/) to make our Python unit testing more efficient and expressive. Please include doctests as 
-they provide clear and accessible examples of how to use the code. 
+We prefer [pytest](https://docs.pytest.org/en/8.0.x/) to make our Python unit testing more efficient and expressive.
 
 ### Dependency management
 
@@ -64,7 +64,7 @@ can be easily integrated with the rest of RIA.
 
 ## ⌨️ C-specific guidelines
 
-Coming soon: We are still developing our C-specific coding guidelines and the corresponding continuous integration (CI) 
+**Coming soon:** We are still developing our C-specific coding guidelines and the corresponding continuous integration (CI) 
 tests. In the meantime, please format your C code in accordance with [Google's C/C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
 
 
