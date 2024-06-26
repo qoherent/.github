@@ -34,8 +34,8 @@ to review the issue tracker for any existing reports related to the same bug. --
 
 
 **Version and Environment Information:**
-[Replace this line with version and environment information. If you are using a shared Coherent 
-workstation, please let us know which one?]
+[Replace this line with version and environment information. If you are using a shared Qoherent 
+workstation, please let us know which one.]
 
 
 **Radio Hardware and Driver Information:**
