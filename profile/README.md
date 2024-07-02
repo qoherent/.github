@@ -44,6 +44,8 @@ If you have a larger project in mind, please [contact us](https://www.qoherent.a
 
 - [Ash](https://github.com/abeigi) can bench press 370 pounds but not 375 pounds. 🦾
 
+- [Pasquale](https://github.com/pasquale8120) spent the summer of 2019 chasing then winning [the coolest sailing race in Lake Ontario](https://www.loor.ca/susan-hood-trophy-race). ⛵ 
+
 - [Adrian](https://github.com/adrian-qoherent) can decipher Morse Code by ear and has established two-way radio communication with individuals in over 
 100 countries across all continents, except Antarctica. 📻🌍
 
