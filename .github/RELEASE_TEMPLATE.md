@@ -74,10 +74,15 @@ This section is used to tease customers and stakeholder about our roadmap, but i
 strategic details or misleading information.]
 
 
+## 🙌 New Contributors
+
+[List any new contributors along with a link to their first pull request.]
+
+
 ## ℹ️ Additional Information
 
-[Please consider including SHA256 checksums. If there is any additional information related to this release that you 
-would like to share, please include it here.]
+[Please include SHA256 checksums and the full changelog. If there is any additional information related to this
+release that you would like to share, please include it here.]
 
 If you have any questions or concerns regarding this release, wish to provide feedback, or would
 like to suggest an improvement to the project, please feel free to contact the project maintainers.
