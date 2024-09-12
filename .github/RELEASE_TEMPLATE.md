@@ -90,6 +90,7 @@ like to suggest an improvement to the project, please feel free to contact the p
 <!-- Thank you for your hard work and dedication to the project, and congratulations on this release! 🎉
 
 Next steps:
+- Increment the project version number in relevant files, often 'pyproject.toml' and 'docs/source/conf.py'.
 - Coordinate with the marketing department to prepare announcements for the community, customers, and relevant 
 stakeholders and to review and update any promotional materials.
 - Notify the team to read and review these release notes.
