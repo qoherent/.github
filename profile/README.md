@@ -59,3 +59,5 @@ at frequency plots. 🎸📊
 - [Michael](https://github.com/mrl280)'s passion for recreational 3D printing has led to many unique creations, including custom piece sets for 
 his favourite board game, Settlers of Catan, model ships from his favourite show, Stargate, and a collection of 60+ 
 [Ender test dogs](https://www.youtube.com/watch?v=SvMynpk_WqQ) scattered around his flat. 🛠️
+
+- [Madrigal](https://github.com/MadrigalDW) has done aerial acrobatics since she was 9, including silks, hammock, and straps. 🤸‍♀️
