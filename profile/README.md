@@ -61,3 +61,6 @@ his favourite board game, Settlers of Catan, model ships from his favourite show
 [Ender test dogs](https://www.youtube.com/watch?v=SvMynpk_WqQ) scattered around his flat. 🛠️
 
 - [Madrigal](https://github.com/MadrigalDW) has done aerial acrobatics since she was 9, including silks, hammock, and straps. 🤸‍♀️
+
+- [Benjamin](https://github.com/benChinnery) can usally be found using his free time for video editing, and has been making various videos since he was 11  🎬
+
