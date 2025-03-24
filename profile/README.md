@@ -42,25 +42,28 @@ If you have a larger project in mind, please [contact us](https://www.qoherent.a
 
 ## 🍿 Fun facts about us
 
-- [Ash](https://github.com/abeigi) can bench press 370 pounds but not 375 pounds. 🦾
-
-- [Pasquale](https://github.com/pasquale8120) spent the summer of 2019 training for the goal of winning [the coolest sailing race in Lake Ontario](https://www.loor.ca/susan-hood-trophy-race), and succeeded. ⛵ 
-
 - [Adrian](https://github.com/adrian-qoherent) can decipher Morse Code by ear and has established two-way radio communication with individuals in over 
-100 countries across all continents, except Antarctica. 📻🌍
+100 countries. 📻🌍
 
-- [Lorne](https://github.com/lswersk) can bend his thumb backward by 90 degrees. 📐
+- [Alec](https://github.com/Alec1234567) loves playing guitar and producing his own music. 🎸📊
 
-- [Gillian](https://github.com/fordg1)'s second choice of career path would definitely have been musical theatre. 🎭
+- [Adedola](https://github.com/damide) can do the splits. 🤸‍♀️
 
-- [Alec](https://github.com/Alec1234567) spends most of his free time playing guitar and producing songs, often spending up to 12 hours a day looking 
-at frequency plots. 🎸📊
+- [Ash](https://github.com/abeigi) can bench press 370... but not 375. 🦾
 
-- [Michael](https://github.com/mrl280)'s passion for recreational 3D printing has led to many unique creations, including custom piece sets for 
-his favourite board game, Settlers of Catan, model ships from his favourite show, Stargate, and a collection of 60+ 
-[Ender test dogs](https://www.youtube.com/watch?v=SvMynpk_WqQ) scattered around his flat. 🛠️
+- [Benjamin](https://github.com/benChinnery) is passionate about video editing and has been creating videos since the age of 11. 🎬
+
+- [Elsayed](https://github.com/ElsayedMMohammed) can pinpoint every single country on the map. 🗺️📍
+
+- [Gael](https://github.com/gakest2000) loves writing stories and role-playing character interactions. ✍️🎭
+
+- [Gillian](https://github.com/fordg1) is passionate about musical theatre. Had it not been for her love of engineering, she would have 
+pursued a career in the performing arts. 🎭
+
+- [Lorne](https://github.com/lswersk) can bend his thumb 90° backward. 📐
 
 - [Madrigal](https://github.com/MadrigalDW) has done aerial acrobatics since she was 9, including silks, hammock, and straps. 🤸‍♀️
 
-- [Benjamin](https://github.com/benChinnery) can usually be found using his free time for video editing, and has been making various videos since he was 11. 🎬
+- [Michael](https://github.com/mrl280) loves 3D printing custom board game pieces. 🛠️🎲
 
+- [Pasquale](https://github.com/pasquale8120) is the 2019 champion of the Susan Hood Trophy Race, the coolest sailing race on the Lake Ontario. ⛵
