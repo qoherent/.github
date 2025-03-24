@@ -42,7 +42,7 @@ If you have a larger project in mind, please [contact us](https://www.qoherent.a
 
 ## 🍿 Fun facts about us
 
-- [Adrian](https://github.com/adrian-qoherent) can decipher Morse Code by ear and has established two-way radio communication with individuals in over 
+- [Adrian](https://github.com/adrian-qoherent) can decipher Morse Code by ear and has established two-way radio communication with over 
 100 countries. 📻🌍
 
 - [Alec](https://github.com/Alec1234567) loves playing guitar and producing his own music. 🎸📊
