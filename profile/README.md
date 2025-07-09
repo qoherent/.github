@@ -47,8 +47,6 @@ If you have a larger project in mind, please [contact us](https://www.qoherent.a
 
 - [Alec](https://github.com/Alec1234567) loves playing guitar and producing his own music. 🎸📊
 
-- [Adedola](https://github.com/damide) can do the splits. 🤸‍♀️
-
 - [Ash](https://github.com/abeigi) can bench press 370... but not 375. 🦾
 
 - [Benjamin](https://github.com/benChinnery) is passionate about video editing and has been creating videos since the age of 11. 🎬
