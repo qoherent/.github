@@ -40,6 +40,8 @@ Explore our public projects, both here and on [RIA Hub](https://riahub.ai)! We'r
 
 - [Gillian](https://github.com/fordg1) is passionate about musical theatre. Had it not been for her love of engineering, she would have pursued a career in the performing arts 🎭
 
+- [Jonny](https://github.com/jrhughes003) can play 6 different instruments: alto, tenor, and baritone saxophone, guitar, drums, and piano! 🎶
+
 - [Lorne](https://github.com/lswersk) can bend his thumb 90° backward 📐
 
 - [Madrigal](https://github.com/MadrigalDW) has done aerial acrobatics since she was 9, including silks, hammock, and straps 🤸‍♀️
