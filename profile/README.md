@@ -45,5 +45,3 @@ Explore our public projects, both here and on [RIA Hub](https://riahub.ai)! We'r
 - [Lorne](https://github.com/lswersk) can bend his thumb 90° backward 📐
 
 - [Madrigal](https://github.com/MadrigalDW) has done aerial acrobatics since she was 9, including silks, hammock, and straps 🤸‍♀️
-
-- [Pasquale](https://github.com/pasquale8120) is the 2019 champion of the Susan Hood Trophy Race, the coolest sailing race on Lake Ontario ⛵
